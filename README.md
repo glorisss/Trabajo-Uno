@@ -22,7 +22,7 @@
 		</Div>
 	<Div>
 		<h1>Así se avanza</h1>
-		<img src="trabajo-uno/prueba.jpg" border="1" alt="Caminando por HTML" width="400" height="300">
+		<img src="path/prueba.jpg" border="1" alt="Caminando por HTML" width="400" height="300">
 </body>
 </html>
 
