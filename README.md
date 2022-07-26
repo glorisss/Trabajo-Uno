@@ -21,8 +21,7 @@
 		</Div>
 	<Div>
 		<h1>Caminar es gratis</h1>
-		<img src="path\prueba.jpg" border="2" alt="Caminando por HTML" width="400" height="300"/>
+		<img src="C:\Users\glori\Documents\GitHub\Trabajo-Uno\Borrador nueva constitución.jpg" border="2" alt="Caminando por HTML" width="400" height="300"/>
 </body>
 </html>
-
 
